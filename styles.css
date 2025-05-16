@@ -1,12 +1,16 @@
 body{
-    background-color: grey;
+    background-color: darkgray;
+}
+p{
+    color: white;
 }
 h1{
     text-align: center;
+    color: mintcream;
 }
 h2{
     text-align: left;
-    color: orange;
+    color: floralwhite;
 }
 img{
     float: right;

@@ -1,9 +1,7 @@
 body{
     background-color: darkgray;
 }
-p{
-    color: white;
-}
+
 h1{
     text-align: center;
     color: navy;
@@ -13,14 +11,20 @@ h2{
 }
 h3{
     color:crimson;
-    text-align: right;
+    text-align: center;
+}
+h4{
+  text-align: center;
+}
+h5{
+  text-align: center;
 }
 img{
     float: right;
 }
 
 #navbar{
-    position: sticky;
+    <!--position: sticky;-->
     top: 0;
     background-color: #8e8d8f;
     overflow: hidden;
